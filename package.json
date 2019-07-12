@@ -3,8 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@amplitude/react-amplitude": "^1.0.0",
-    "amplitude-js": "^5.2.2",
     "grommet": "^2.7.1",
     "polished": "^3.4.1",
     "prop-types": "^15.7.2",
@@ -15,6 +13,7 @@
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
+    "react-segment": "^0.1.8",
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
