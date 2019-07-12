@@ -1,5 +1,8 @@
-
 {
-    "login_title": "title",
-    "login_text": "text"
+    "registration_title": "Registrieren",
+    "Registration View": {
+        "registration_text": "Hallo <% name %>, bitte registriere dich hier. 3"
+    },
+    "login_title": "Login",
+    "login_text": "Text"
 }
