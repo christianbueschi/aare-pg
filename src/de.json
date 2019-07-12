@@ -1,25 +1,14 @@
 {
     "Registration View": {
-        "registration_title": "Registrieren",
-        "registration_text": "Hallo <% name %>, bitte registriere dich hier. 3",
-        "Title": "",
-        "Text": ""
+        "Title": "Registrieren",
+        "Text": "Hallo <% name %>, bitte registriere dich hier. 3"
     },
-    "login_title": "Login",
-    "login_text": "Text",
-    "Login": {
-        "user": {
-            "one": "Benutzer",
-            "other": "Benützer"
-        }
-    },
+    "Submit": "Submit",
     "Member View": {
-        "Member": "",
         "member": {
-            "one": "",
-            "other": ""
+            "one": "Member",
+            "other": "Members"
         }
     },
-    "Submit": "",
     "member": ""
 }
