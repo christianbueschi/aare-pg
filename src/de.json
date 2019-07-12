@@ -4,5 +4,11 @@
         "registration_text": "Hallo <% name %>, bitte registriere dich hier. 3"
     },
     "login_title": "Login",
-    "login_text": "Text"
+    "login_text": "Text",
+    "Login": {
+        "user": {
+            "one": "Benutzer",
+            "other": "Benützer"
+        }
+    }
 }
